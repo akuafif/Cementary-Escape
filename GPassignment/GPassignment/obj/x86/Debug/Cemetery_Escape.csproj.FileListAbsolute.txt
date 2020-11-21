@@ -1,0 +1,297 @@
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\in.xnb
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\marioblock[1].xnb
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Player\Stickman Idle.xnb
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Player\Stickman Jump.xnb
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Player\StickmanRun.xnb
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Buttons\Exit.xnb
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Buttons\ExitGame.xnb
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Buttons\ExitGame_Hover.xnb
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Buttons\Exit_Hover.xnb
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Buttons\MainMenu.xnb
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Buttons\MainMenu_Hover.xnb
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Buttons\PauseScreen.xnb
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Buttons\Play.xnb
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Buttons\Play_Hover.xnb
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Buttons\Resume.xnb
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Buttons\Resume_Hover.xnb
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Player\avatars1.xnb
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\grass.xnb
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\skeleton.xnb
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\ground.xnb
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\tombstone.xnb
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Zombie\DisappearZombie.xnb
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Zombie\JumpingZombie.xnb
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Zombie\NormalZombie.xnb
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Zombie\SlackerZombie.xnb
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Player\Heart.xnb
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Player\Heart_Empty.xnb
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\YoureDead.xnb
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\YouWin.xnb
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\gate.xnb
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\Background.xnb
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Buttons\Story.xnb
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Buttons\ControlMenu.xnb
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Buttons\Control.xnb
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Buttons\Control_Hover.xnb
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\ngeeann.xnb
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\titlescreen.xnb
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\outoftime.xnb
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\skull.xnb
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Player\Player.xnb
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Player\newsprite.xnb
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Zombie\DisappearZombie1.xnb
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\gradient.xnb
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\gradient_long.xnb
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Zombie\Chaser.xnb
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Player\Particle.xnb
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Zombie\Chaser_1.xnb
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\pointer.xnb
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Story\01.xnb
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Story\02.xnb
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Story\03.xnb
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Story\04.xnb
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\fog_powerup.xnb
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\hand_root.xnb
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\health_powerup.xnb
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Images\SplashScreens\1.xnb
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Images\SplashScreens\2.xnb
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Images\SplashScreens\3.xnb
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Images\SplashScreens\4.xnb
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Images\SplashScreens\5.xnb
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Buttons\Credits.xnb
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Buttons\Credits_Hover.xnb
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\HUD.xnb
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\FontForXY.xnb
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\ScoreFont.xnb
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Sounds\DeathScreams.xnb
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Sounds\BackgroundMusic.xnb
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Sounds\Jump.xnb
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Sounds\Zombie.xnb
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Sounds\Chaser_Voice.xnb
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Sounds\Chaser_Whisper.xnb
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Story\BackgroundStory.xnb
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Story\credits.xnb
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Story\BackgroundStory.wmv
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Story\credits.wmv
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Maps\Maps.txt
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Maps\Maps2.txt
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Maps\Maps3.txt
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Maps\Maps4.txt
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Maps\Maps5.txt
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Maps\Maps6.txt
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Maps\Maps999.txt
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Scores\highscore.txt
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Scores\highscore2.txt
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Scores\highscore3.txt
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Scores\highscore4.txt
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Scores\highscore5.txt
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Scores\highscore6.txt
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Content\Scores\totalScore.txt
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Cemetery_Escape.exe.manifest
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Cemetery_Escape.application
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Cemetery_Escape.exe
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\bin\x86\Debug\Cemetery_Escape.pdb
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\obj\x86\Debug\Cemetery_Escape.exe.manifest
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\obj\x86\Debug\Cemetery_Escape.application
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\obj\x86\Debug\Cemetery_Escape.exe
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\obj\x86\Debug\Cemetery_Escape.pdb
+C:\Users\afif\Desktop\Cemetery Escape\GPassignment\GPassignment\obj\x86\Debug\Cemetery_Escape.csprojResolveAssemblyReference.cache
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\in.xnb
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\marioblock[1].xnb
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Player\Stickman Idle.xnb
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Player\Stickman Jump.xnb
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Player\StickmanRun.xnb
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Buttons\Exit.xnb
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Buttons\ExitGame.xnb
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Buttons\ExitGame_Hover.xnb
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Buttons\Exit_Hover.xnb
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Buttons\MainMenu.xnb
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Buttons\MainMenu_Hover.xnb
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Buttons\PauseScreen.xnb
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Buttons\Play.xnb
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Buttons\Play_Hover.xnb
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Buttons\Resume.xnb
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Buttons\Resume_Hover.xnb
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Player\avatars1.xnb
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\grass.xnb
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\skeleton.xnb
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\ground.xnb
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\tombstone.xnb
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Zombie\DisappearZombie.xnb
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Zombie\JumpingZombie.xnb
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Zombie\NormalZombie.xnb
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Zombie\SlackerZombie.xnb
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Player\Heart.xnb
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Player\Heart_Empty.xnb
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\YoureDead.xnb
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\YouWin.xnb
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\gate.xnb
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\Background.xnb
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Buttons\Story.xnb
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Buttons\ControlMenu.xnb
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Buttons\Control.xnb
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Buttons\Control_Hover.xnb
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\ngeeann.xnb
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\titlescreen.xnb
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\outoftime.xnb
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\skull.xnb
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Player\Player.xnb
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Player\newsprite.xnb
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Zombie\DisappearZombie1.xnb
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\gradient.xnb
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\gradient_long.xnb
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Zombie\Chaser.xnb
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Player\Particle.xnb
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Zombie\Chaser_1.xnb
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\pointer.xnb
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Story\01.xnb
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Story\02.xnb
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Story\03.xnb
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Story\04.xnb
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\fog_powerup.xnb
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\hand_root.xnb
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\health_powerup.xnb
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\SplashScreens\1.xnb
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\SplashScreens\2.xnb
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\SplashScreens\3.xnb
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\SplashScreens\4.xnb
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\SplashScreens\5.xnb
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Buttons\Credits.xnb
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Buttons\Credits_Hover.xnb
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\HUD.xnb
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\FontForXY.xnb
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\ScoreFont.xnb
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Sounds\DeathScreams.xnb
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Sounds\BackgroundMusic.xnb
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Sounds\Jump.xnb
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Sounds\Zombie.xnb
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Sounds\Chaser_Voice.xnb
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Sounds\Chaser_Whisper.xnb
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Story\BackgroundStory.xnb
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Story\credits.xnb
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Story\BackgroundStory.wmv
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Story\credits.wmv
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Maps\Maps.txt
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Maps\Maps2.txt
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Maps\Maps3.txt
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Maps\Maps4.txt
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Maps\Maps5.txt
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Maps\Maps6.txt
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Maps\Maps999.txt
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Scores\highscore.txt
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Scores\highscore2.txt
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Scores\highscore3.txt
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Scores\highscore4.txt
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Scores\highscore5.txt
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Scores\highscore6.txt
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Scores\totalScore.txt
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Cemetery_Escape.exe.manifest
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Cemetery_Escape.application
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Cemetery_Escape.exe
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Cemetery_Escape.pdb
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\obj\x86\Debug\Cemetery_Escape.csprojResolveAssemblyReference.cache
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\obj\x86\Debug\Cemetery_Escape.exe.manifest
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\obj\x86\Debug\Cemetery_Escape.application
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\obj\x86\Debug\Cemetery_Escape.exe
+E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\obj\x86\Debug\Cemetery_Escape.pdb
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\in.xnb
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\marioblock[1].xnb
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Player\Stickman Idle.xnb
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Player\Stickman Jump.xnb
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Player\StickmanRun.xnb
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Buttons\Exit.xnb
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Buttons\ExitGame.xnb
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Buttons\ExitGame_Hover.xnb
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Buttons\Exit_Hover.xnb
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Buttons\MainMenu.xnb
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Buttons\MainMenu_Hover.xnb
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Buttons\PauseScreen.xnb
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Buttons\Play.xnb
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Buttons\Play_Hover.xnb
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Buttons\Resume.xnb
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Buttons\Resume_Hover.xnb
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Player\avatars1.xnb
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\grass.xnb
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\skeleton.xnb
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\ground.xnb
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\tombstone.xnb
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Zombie\DisappearZombie.xnb
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Zombie\JumpingZombie.xnb
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Zombie\NormalZombie.xnb
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Zombie\SlackerZombie.xnb
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Player\Heart.xnb
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Player\Heart_Empty.xnb
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\YoureDead.xnb
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\YouWin.xnb
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\gate.xnb
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\Background.xnb
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Buttons\Story.xnb
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Buttons\ControlMenu.xnb
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Buttons\Control.xnb
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Buttons\Control_Hover.xnb
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\ngeeann.xnb
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\titlescreen.xnb
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\outoftime.xnb
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\skull.xnb
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Player\Player.xnb
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Player\newsprite.xnb
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Zombie\DisappearZombie1.xnb
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\gradient.xnb
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\gradient_long.xnb
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Zombie\Chaser.xnb
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Player\Particle.xnb
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Zombie\Chaser_1.xnb
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\pointer.xnb
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Story\01.xnb
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Story\02.xnb
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Story\03.xnb
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Story\04.xnb
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\fog_powerup.xnb
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\hand_root.xnb
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\health_powerup.xnb
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\SplashScreens\1.xnb
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\SplashScreens\2.xnb
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\SplashScreens\3.xnb
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\SplashScreens\4.xnb
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\SplashScreens\5.xnb
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Buttons\Credits.xnb
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Buttons\Credits_Hover.xnb
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\HUD.xnb
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\FontForXY.xnb
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\ScoreFont.xnb
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Sounds\DeathScreams.xnb
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Sounds\BackgroundMusic.xnb
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Sounds\Jump.xnb
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Sounds\Zombie.xnb
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Sounds\Chaser_Voice.xnb
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Sounds\Chaser_Whisper.xnb
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Story\BackgroundStory.xnb
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Story\credits.xnb
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Story\BackgroundStory.wmv
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Story\credits.wmv
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Maps\Maps.txt
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Maps\Maps2.txt
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Maps\Maps3.txt
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Maps\Maps4.txt
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Maps\Maps5.txt
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Maps\Maps6.txt
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Maps\Maps999.txt
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Scores\highscore.txt
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Scores\highscore2.txt
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Scores\highscore3.txt
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Scores\highscore4.txt
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Scores\highscore5.txt
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Scores\highscore6.txt
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Scores\totalScore.txt
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Cemetery_Escape.exe.manifest
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Cemetery_Escape.application
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Cemetery_Escape.exe
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Cemetery_Escape.pdb
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\obj\x86\Debug\Cemetery_Escape.csprojResolveAssemblyReference.cache
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\obj\x86\Debug\Cemetery_Escape.exe.manifest
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\obj\x86\Debug\Cemetery_Escape.application
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\obj\x86\Debug\Cemetery_Escape.exe
+C:\Users\izmanhaddy\Dropbox\Assignment\Source Code\GPassignment\GPassignment\obj\x86\Debug\Cemetery_Escape.pdb

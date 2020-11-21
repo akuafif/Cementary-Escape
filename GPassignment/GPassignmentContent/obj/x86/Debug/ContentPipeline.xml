@@ -1,0 +1,705 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Images\WorldMap\in.tga</Source>
+      <Name>Images\WorldMap\in</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\in.xnb</Output>
+      <Time>2011-06-04T21:38:06+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\WorldMap\marioblock[1].png</Source>
+      <Name>Images\WorldMap\marioblock[1]</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\marioblock[1].xnb</Output>
+      <Time>2011-06-04T21:38:29+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Player\Stickman Idle.png</Source>
+      <Name>Images\Player\Stickman Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Player\Stickman Idle.xnb</Output>
+      <Time>2012-11-18T13:45:56+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Player\Stickman Jump.png</Source>
+      <Name>Images\Player\Stickman Jump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Player\Stickman Jump.xnb</Output>
+      <Time>2012-11-18T19:51:18+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Player\StickmanRun.png</Source>
+      <Name>Images\Player\StickmanRun</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Player\StickmanRun.xnb</Output>
+      <Time>2012-11-19T11:46:26+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Buttons\Exit.png</Source>
+      <Name>Images\Buttons\Exit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Buttons\Exit.xnb</Output>
+      <Time>2012-11-21T18:54:28+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Buttons\ExitGame.png</Source>
+      <Name>Images\Buttons\ExitGame</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Buttons\ExitGame.xnb</Output>
+      <Time>2012-11-21T14:24:51+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Buttons\ExitGame_Hover.png</Source>
+      <Name>Images\Buttons\ExitGame_Hover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Buttons\ExitGame_Hover.xnb</Output>
+      <Time>2012-11-21T14:24:51+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Buttons\Exit_Hover.png</Source>
+      <Name>Images\Buttons\Exit_Hover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Buttons\Exit_Hover.xnb</Output>
+      <Time>2012-11-21T18:55:04+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Buttons\MainMenu.png</Source>
+      <Name>Images\Buttons\MainMenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Buttons\MainMenu.xnb</Output>
+      <Time>2012-11-21T18:56:26+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Buttons\MainMenu_Hover.png</Source>
+      <Name>Images\Buttons\MainMenu_Hover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Buttons\MainMenu_Hover.xnb</Output>
+      <Time>2012-11-21T18:56:51+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Buttons\PauseScreen.png</Source>
+      <Name>Images\Buttons\PauseScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Buttons\PauseScreen.xnb</Output>
+      <Time>2013-01-15T12:26:45+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Buttons\Play.png</Source>
+      <Name>Images\Buttons\Play</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Buttons\Play.xnb</Output>
+      <Time>2012-11-21T18:51:14+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Buttons\Play_Hover.png</Source>
+      <Name>Images\Buttons\Play_Hover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Buttons\Play_Hover.xnb</Output>
+      <Time>2012-11-21T18:51:27+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Buttons\Resume.png</Source>
+      <Name>Images\Buttons\Resume</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Buttons\Resume.xnb</Output>
+      <Time>2012-11-21T19:00:01+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Buttons\Resume_Hover.png</Source>
+      <Name>Images\Buttons\Resume_Hover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Buttons\Resume_Hover.xnb</Output>
+      <Time>2012-11-21T19:00:21+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Player\avatars1.png</Source>
+      <Name>Images\Player\avatars1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Player\avatars1.xnb</Output>
+      <Time>2013-01-10T14:55:12+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\WorldMap\grass.png</Source>
+      <Name>Images\WorldMap\grass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\grass.xnb</Output>
+      <Time>2013-01-15T23:11:15+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\WorldMap\skeleton.png</Source>
+      <Name>Images\WorldMap\skeleton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\skeleton.xnb</Output>
+      <Time>2013-01-15T23:10:57+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\WorldMap\ground.png</Source>
+      <Name>Images\WorldMap\ground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\ground.xnb</Output>
+      <Time>2013-01-15T23:11:06+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\WorldMap\tombstone.png</Source>
+      <Name>Images\WorldMap\tombstone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\tombstone.xnb</Output>
+      <Time>2013-01-02T15:45:59+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Zombie\DisappearZombie.png</Source>
+      <Name>Images\Zombie\DisappearZombie</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Zombie\DisappearZombie.xnb</Output>
+      <Time>2013-01-16T14:26:54+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Zombie\JumpingZombie.png</Source>
+      <Name>Images\Zombie\JumpingZombie</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Zombie\JumpingZombie.xnb</Output>
+      <Time>2012-11-19T11:16:19+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Zombie\NormalZombie.png</Source>
+      <Name>Images\Zombie\NormalZombie</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Zombie\NormalZombie.xnb</Output>
+      <Time>2012-11-19T11:17:12+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Zombie\SlackerZombie.png</Source>
+      <Name>Images\Zombie\SlackerZombie</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Zombie\SlackerZombie.xnb</Output>
+      <Time>2012-11-19T11:18:19+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Player\Heart.png</Source>
+      <Name>Images\Player\Heart</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Player\Heart.xnb</Output>
+      <Time>2012-11-29T14:37:58+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Player\Heart_Empty.png</Source>
+      <Name>Images\Player\Heart_Empty</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Player\Heart_Empty.xnb</Output>
+      <Time>2012-11-28T15:11:53+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\WorldMap\YoureDead.png</Source>
+      <Name>Images\WorldMap\YoureDead</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\YoureDead.xnb</Output>
+      <Time>2013-02-03T18:23:02+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\WorldMap\YouWin.png</Source>
+      <Name>Images\WorldMap\YouWin</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\YouWin.xnb</Output>
+      <Time>2013-01-15T23:50:55+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\WorldMap\gate.png</Source>
+      <Name>Images\WorldMap\gate</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\gate.xnb</Output>
+      <Time>2013-01-02T15:44:58+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\WorldMap\Background.jpg</Source>
+      <Name>Images\WorldMap\Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\Background.xnb</Output>
+      <Time>2013-01-15T23:11:49+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Buttons\Story.png</Source>
+      <Name>Images\Buttons\Story</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Buttons\Story.xnb</Output>
+      <Time>2013-01-31T16:44:45+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Buttons\ControlMenu.png</Source>
+      <Name>Images\Buttons\ControlMenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Buttons\ControlMenu.xnb</Output>
+      <Time>2013-01-16T00:19:55+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Buttons\Control.png</Source>
+      <Name>Images\Buttons\Control</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Buttons\Control.xnb</Output>
+      <Time>2012-11-28T14:09:05+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Buttons\Control_Hover.png</Source>
+      <Name>Images\Buttons\Control_Hover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Buttons\Control_Hover.xnb</Output>
+      <Time>2012-11-28T14:09:31+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\WorldMap\ngeeann.jpg</Source>
+      <Name>Images\WorldMap\ngeeann</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\ngeeann.xnb</Output>
+      <Time>2013-01-15T22:47:42+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\WorldMap\titlescreen.jpg</Source>
+      <Name>Images\WorldMap\titlescreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\titlescreen.xnb</Output>
+      <Time>2013-01-15T14:30:34+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\WorldMap\outoftime.png</Source>
+      <Name>Images\WorldMap\outoftime</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\outoftime.xnb</Output>
+      <Time>2013-02-03T18:23:35+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\WorldMap\skull.png</Source>
+      <Name>Images\WorldMap\skull</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\skull.xnb</Output>
+      <Time>2013-01-02T12:22:06+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Player\Player.png</Source>
+      <Name>Images\Player\Player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Player\Player.xnb</Output>
+      <Time>2013-01-10T16:18:50+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Player\newsprite.png</Source>
+      <Name>Images\Player\newsprite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Player\newsprite.xnb</Output>
+      <Time>2013-01-15T10:46:01+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Zombie\DisappearZombie1.png</Source>
+      <Name>Images\Zombie\DisappearZombie1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Zombie\DisappearZombie1.xnb</Output>
+      <Time>2013-01-16T14:47:48+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\WorldMap\gradient.png</Source>
+      <Name>Images\WorldMap\gradient</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\gradient.xnb</Output>
+      <Time>2012-09-27T05:02:52+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\WorldMap\gradient_long.png</Source>
+      <Name>Images\WorldMap\gradient_long</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\gradient_long.xnb</Output>
+      <Time>2013-01-21T19:12:20+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Zombie\Chaser.png</Source>
+      <Name>Images\Zombie\Chaser</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Zombie\Chaser.xnb</Output>
+      <Time>2013-01-22T15:16:07+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Player\Particle.png</Source>
+      <Name>Images\Player\Particle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Player\Particle.xnb</Output>
+      <Time>2010-10-08T21:09:02+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Zombie\Chaser_1.png</Source>
+      <Name>Images\Zombie\Chaser_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Zombie\Chaser_1.xnb</Output>
+      <Time>2013-01-23T16:34:08+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\WorldMap\pointer.png</Source>
+      <Name>Images\WorldMap\pointer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\pointer.xnb</Output>
+      <Time>2013-01-29T10:22:10+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Story\01.jpg</Source>
+      <Name>Images\Story\01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Story\01.xnb</Output>
+      <Time>2013-01-29T10:52:01+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Story\02.jpg</Source>
+      <Name>Images\Story\02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Story\02.xnb</Output>
+      <Time>2013-01-29T10:52:01+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Story\03.jpg</Source>
+      <Name>Images\Story\03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Story\03.xnb</Output>
+      <Time>2013-01-29T10:52:01+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Story\04.jpg</Source>
+      <Name>Images\Story\04</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Story\04.xnb</Output>
+      <Time>2013-01-29T10:52:01+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\WorldMap\fog_powerup.png</Source>
+      <Name>Images\WorldMap\fog_powerup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\fog_powerup.xnb</Output>
+      <Time>2013-01-31T14:47:10+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\WorldMap\hand_root.png</Source>
+      <Name>Images\WorldMap\hand_root</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\hand_root.xnb</Output>
+      <Time>2013-02-03T19:10:28+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\WorldMap\health_powerup.png</Source>
+      <Name>Images\WorldMap\health_powerup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\health_powerup.xnb</Output>
+      <Time>2013-02-03T18:51:17+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\SplashScreens\1.png</Source>
+      <Name>Images\SplashScreens\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\SplashScreens\1.xnb</Output>
+      <Time>2013-01-31T15:43:13+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\SplashScreens\2.png</Source>
+      <Name>Images\SplashScreens\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\SplashScreens\2.xnb</Output>
+      <Time>2013-01-31T15:06:33+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\SplashScreens\3.png</Source>
+      <Name>Images\SplashScreens\3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\SplashScreens\3.xnb</Output>
+      <Time>2013-01-31T15:08:17+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\SplashScreens\4.png</Source>
+      <Name>Images\SplashScreens\4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\SplashScreens\4.xnb</Output>
+      <Time>2013-01-31T15:14:00+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\SplashScreens\5.png</Source>
+      <Name>Images\SplashScreens\5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\SplashScreens\5.xnb</Output>
+      <Time>2013-01-31T15:12:46+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Buttons\Credits.png</Source>
+      <Name>Images\Buttons\Credits</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Buttons\Credits.xnb</Output>
+      <Time>2013-02-03T18:54:24+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Buttons\Credits_Hover.png</Source>
+      <Name>Images\Buttons\Credits_Hover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Buttons\Credits_Hover.xnb</Output>
+      <Time>2013-02-03T18:52:14+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\WorldMap\HUD.png</Source>
+      <Name>Images\WorldMap\HUD</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\WorldMap\HUD.xnb</Output>
+      <Time>2013-02-03T19:07:41+08:00</Time>
+    </Item>
+    <Item>
+      <Source>FontForXY.spritefont</Source>
+      <Name>FontForXY</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\FontForXY.xnb</Output>
+      <Time>2012-11-22T16:16:17+08:00</Time>
+    </Item>
+    <Item>
+      <Source>ScoreFont.spritefont</Source>
+      <Name>ScoreFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\ScoreFont.xnb</Output>
+      <Time>2013-01-05T03:09:12+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\DeathScreams.wav</Source>
+      <Name>Sounds\DeathScreams</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Sounds\DeathScreams.xnb</Output>
+      <Time>2013-01-02T09:44:53+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\BackgroundMusic.wav</Source>
+      <Name>Sounds\BackgroundMusic</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Sounds\BackgroundMusic.xnb</Output>
+      <Time>2013-01-22T10:46:38+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Jump.wav</Source>
+      <Name>Sounds\Jump</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Sounds\Jump.xnb</Output>
+      <Time>2013-01-22T15:17:55+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Zombie.wav</Source>
+      <Name>Sounds\Zombie</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Sounds\Zombie.xnb</Output>
+      <Time>2013-01-23T10:34:16+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Chaser_Voice.wav</Source>
+      <Name>Sounds\Chaser_Voice</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Sounds\Chaser_Voice.xnb</Output>
+      <Time>2013-02-03T15:59:07+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Chaser_Whisper.wav</Source>
+      <Name>Sounds\Chaser_Whisper</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Sounds\Chaser_Whisper.xnb</Output>
+      <Time>2013-01-23T10:40:39+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Story\BackgroundStory.wmv</Source>
+      <Name>Images\Story\BackgroundStory</Name>
+      <Importer>WmvImporter</Importer>
+      <Processor>VideoProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Story\BackgroundStory.xnb</Output>
+      <Extra>E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Story\BackgroundStory.wmv</Extra>
+      <Time>2013-01-31T14:39:11+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Story\credits.wmv</Source>
+      <Name>Images\Story\credits</Name>
+      <Importer>WmvImporter</Importer>
+      <Processor>VideoProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Story\credits.xnb</Output>
+      <Extra>E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\Images\Story\credits.wmv</Extra>
+      <Time>2013-02-03T20:06:15+08:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignmentContent\</RootDirectory>
+      <LoggerRootDirectory>E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\</LoggerRootDirectory>
+      <IntermediateDirectory>E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignmentContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>E:\Dropbox\Ngee Ann Poly\Semester 6\GAMES PROGRAMMING\Assignment\Source Code\GPassignment\GPassignment\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-02-05T06:01:35.8636479+08:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

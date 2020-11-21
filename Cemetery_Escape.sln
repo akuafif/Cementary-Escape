@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cemetery_Escape", "GPassignment\GPassignment\Cemetery_Escape.csproj", "{87B5E9E2-B11B-41C0-9484-9D07B2138223}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cemetery_Escape_Content", "GPassignment\GPassignmentContent\Cemetery_Escape_Content.contentproj", "{55ADC13D-9086-413B-B25E-B36E10D13084}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87B5E9E2-B11B-41C0-9484-9D07B2138223}.Debug|x86.ActiveCfg = Debug|x86
+		{87B5E9E2-B11B-41C0-9484-9D07B2138223}.Debug|x86.Build.0 = Debug|x86
+		{87B5E9E2-B11B-41C0-9484-9D07B2138223}.Release|x86.ActiveCfg = Release|x86
+		{87B5E9E2-B11B-41C0-9484-9D07B2138223}.Release|x86.Build.0 = Release|x86
+		{55ADC13D-9086-413B-B25E-B36E10D13084}.Debug|x86.ActiveCfg = Debug|x86
+		{55ADC13D-9086-413B-B25E-B36E10D13084}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
